@@ -3,8 +3,8 @@
 ________________________
 <br></br>
 
-<img src="images/d3-js.png"  align="left" width="40%"/>
-<img src="images/HTML5-CSS3.png"  align="center"width="55%"/>
+<img src="Images/d3-js.png"  align="left" width="40%"/>
+<img src="Images/HTML5-CSS3.png"  align="center"width="55%"/>
 
 <br></br>
 
